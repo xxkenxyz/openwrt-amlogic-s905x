@@ -1,0 +1,1 @@
+# openwrt-amlogic-s905x
